@@ -1,0 +1,190 @@
+WHAT IS THIS?
+
+A set of shell scripts for querying text of interest
+from sites of interest, with just wget and a few
+common text processing utilities (ie. sed and awk)
+found on most modern UNIX-like operating systems.
+
+
+SEARCH-YOUTUBE EXAMPLE
+
+  $ ./search-youtube paint+scraping 
+
+  THE BEST Satisfying Paint Scraping TikTok Compilation 2021
+  1 rok temu
+  7:15
+  https://youtube.com/watch?v=7oOp2LoLGUg
+  Agradable Tv
+  
+  IS
+  3 lata temu
+  8:36
+  https://youtube.com/watch?v=5IGDokUJebw
+  The Honest Carpenter
+  
+  Satisfying Paint Peels and Scrapes | TikTok Compilation
+  2 lata temu
+  6:09
+  https://youtube.com/watch?v=nkAAoKmyFtA
+  Actual Compilation
+  
+  Satisfying Drywall Scraping
+  2 lata temu
+  9:47
+  https://youtube.com/watch?v=Uf-VAQOe_gU
+  Addie ASMR
+  
+  Satisfying bucket cleaning compilation
+  2 lata temu
+  3:03
+  https://youtube.com/watch?v=kKinSBULAoA
+  BoreCure
+  
+  Scraping Dry Paint ASMR
+  1 rok temu
+  9:54
+  https://youtube.com/watch?v=hZxZ0Bkwcbk
+  AudioWaves
+  
+  How to Paint Your House: Scraping with a 5-way
+  12 lat temu
+  1:23
+  https://youtube.com/watch?v=IBILzrDKne8
+  VideoPaintGuide
+  
+  Trailer Park Boys: J-Roc - Scrape The Paint
+  7 lat temu
+  0:13
+  https://youtube.com/watch?v=vcX0C438jtw
+  Sam
+  
+  Removing Paint From Cedar Siding | Diamabrush vs Paint Eater vs Sander vs Pressure Washer vs Scraper
+  9 miesięcy temu
+  10:39
+  https://youtube.com/watch?v=IQRpfpFDxfQ
+  Welcome to the Woods
+  
+  How
+  2 lata temu
+  4:17
+  https://youtube.com/watch?v=nHc18Omp1D8
+  Matthews'
+  
+  Satysfakcjonujące Filmy Pracowników Doskonale Wykonujących Swoją Pracę ▶7
+  1 rok temu
+  11:05
+  https://youtube.com/watch?v=suWsQxk_KEk
+  Quantum Tech HD
+  
+  The Perfect Storm Part 2 - Conserving a Hurricane Damaged Heirloom
+  9 dni temu
+  23:29
+  https://youtube.com/watch?v=u0_AuhqUN2U
+  Baumgartner Restoration
+  
+  Top 100 Best Hydraulic Press Moments | Satisfying Crushing Compilation
+  3 lata temu
+  12:49
+  https://youtube.com/watch?v=q9BtYEnrkg4
+  Hydraulic Press Channel
+  
+  Very Satisfying and Relaxing Compilation 148 Kinetic Sand ASMR
+  3 lata temu
+  18:42
+  https://youtube.com/watch?v=3clqk2U3T9Y
+  Sand Tagious
+  
+  Retouching for Days; The Restoration of a Jacopo Bassano Painting -  Narrated
+  4 lata temu
+  22:42
+  https://youtube.com/watch?v=E9V_wxBr8SQ
+  Baumgartner Restoration
+  
+  Oddly Satisfying Trying to Clean Old Crusty Acrylic Craft Paint Cookie Swirl C Video
+  3 lata temu
+  27:30
+  https://youtube.com/watch?v=4lDdeGwvtg4
+  CookieSwirlC
+  
+  The
+  3 lata temu
+  40:06
+  https://youtube.com/watch?v=leoSW5fXmiM
+  Baumgartner Restoration
+  
+  all
+  2 miesiące temu
+  8:45
+  https://youtube.com/watch?v=f1l30y3gm84
+  charlotte martel
+  
+  Satisfying Paint Peels and Scrapes pt2 | TikTok Compilation
+  2 lata temu
+  5:07
+  https://youtube.com/watch?v=BMiJ_7P0pKo
+  Actual Compilation
+  
+  How to Smooth PLA 3D Prints to Look Like Resin!
+  8 dni temu
+  39:49
+  https://youtube.com/watch?v=1AW098PLi0o
+  ItsMeaDMaDe
+  
+  Scraping off 1000 layers of spray paint
+  4 miesiące temu
+  8:36
+  https://youtube.com/watch?v=vMnBiIsqrvc
+  Casey VanArsdale
+  
+  How To Scrape Paint Off Your House (The Basics)
+  2 lata temu
+  5:59
+  https://youtube.com/watch?v=lArFDy1-O9Q
+  Tribble Painting Company
+  
+  How to Remove Peeling Paint | This Old House
+  2 lata temu
+  2:00
+  https://youtube.com/watch?v=93nOuBFMXyI
+  This Old House
+  
+  Scraping,
+  3 lata temu
+  39:53
+  https://youtube.com/watch?v=VQ1yUfdNRsg
+  Baumgartner Restoration
+  
+  Scraping,
+  3 lata temu
+  40:59
+  https://youtube.com/watch?v=YOOQl0hC18U
+  Baumgartner Restoration
+  
+  SUPER SATISFYING paint \u0026 finish removal - Scraping/stripping - tool sounds
+  11 miesięcy temu
+  10:13
+  https://youtube.com/watch?v=xPByi250TyU
+  Transcend Furniture Gallery
+  
+  SATISFYING paint scraping
+  4 lata temu
+  3:24
+  https://youtube.com/watch?v=iNe5M2SxCP0
+  chamberlainpaintings
+  
+  SCRAPING TECHNIQUE ACCORDING TO GERHARD RICHTER #painting #acrylicabstract #Gerhardrichter #art
+  2 miesiące temu
+  0:36
+  Sergio Aranda ART
+  
+  YBN Nahmir \
+  5 lat temu
+  2:56
+  https://youtube.com/watch?v=AsfVZqZhtUQ
+  WORLDSTARHIPHOP
+  
+  Peeling paint. Scraping to a hard edge.
+  6 miesięcy temu
+  0:35
+  INEXTERIORS TV
+
